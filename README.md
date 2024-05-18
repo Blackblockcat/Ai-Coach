@@ -1,4 +1,6 @@
 How to Use the Model
+
+
 1-Preprocessing Data:
 
 Ensure you have a directory named data containing subdirectories for each gesture class, with images of hand gestures.
