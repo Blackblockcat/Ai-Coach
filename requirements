@@ -1,0 +1,14 @@
+## Requirements
+
+- Python 3.6 or higher
+- OpenCV
+- MediaPipe
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- TensorFlow / Keras
+
+You can install the required libraries using:
+```bash
+pip install opencv-python mediapipe numpy matplotlib seaborn scikit-learn tensorflow
